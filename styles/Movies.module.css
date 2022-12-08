@@ -1,0 +1,15 @@
+.images{
+    width: 500px;
+}
+
+.grid{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+   
+}
+
+.card{
+    list-style: none;
+}
